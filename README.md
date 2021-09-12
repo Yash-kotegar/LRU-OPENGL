@@ -1,1 +1,2 @@
 # LRU-OPENGL
+In this project, we created a Graphics animation to demonstrate LRU Page Replacement Algorithm. A good approximation to the optimal algorithm is based on the observation that pages that have been heavily used in the last few instructions will probably be heavily used again in the next few. Conversely, pages that have not been used for ages will probably remain unused for a long time. When a page fault occurs, throw out the page that has been unused for the longest time. This strategy is called LRU (Least Recently Used) page replacement algorithm.
